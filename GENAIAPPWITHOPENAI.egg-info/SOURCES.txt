@@ -1,0 +1,6 @@
+setup.py
+GENAIAPPWITHOPENAI.egg-info/PKG-INFO
+GENAIAPPWITHOPENAI.egg-info/SOURCES.txt
+GENAIAPPWITHOPENAI.egg-info/dependency_links.txt
+GENAIAPPWITHOPENAI.egg-info/requires.txt
+GENAIAPPWITHOPENAI.egg-info/top_level.txt

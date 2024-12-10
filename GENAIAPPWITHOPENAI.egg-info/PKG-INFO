@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: GENAIAPPWITHOPENAI
+Version: 0.0.1
+Author: Dixitha
+Author-email: dixithavishwaasrao@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: langchain
+Requires-Dist: langchain_community
+Requires-Dist: ipykernel
